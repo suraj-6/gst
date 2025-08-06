@@ -1,0 +1,16 @@
+{
+  "GST_RATES": {
+    "goods": 0.18,
+    "services": 0.12
+  },
+  "TDS_RATES": {
+    "default": 0.10,
+    "special_slab": {
+      "threshold": 10000,
+      "rate_above_threshold": 0.15
+    }
+  },
+  "VAT_RATES": {
+    "default": 0.12
+  }
+}
